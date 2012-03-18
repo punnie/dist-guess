@@ -4,7 +4,7 @@ Ever found yourself in a linux system wondering which distro is running? Tired t
 
 This simple tool will, in time, enable you to easily find that information. Just type in a terminal:
 
-bc. bash <(curl http://tinyurl.com/dist-guess)
+bc. bash <(curl -sL http://tinyurl.com/dist-guess)
 
 h2. Contribution
 
