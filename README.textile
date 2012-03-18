@@ -1,0 +1,16 @@
+h1. dist-guess.sh
+
+Ever found yourself in a linux system wondering which distro is running? Tired to search here, there, and every fucking where for the right release file?
+
+This simple tool will, in time, enable you to easily find that information. Just type in a terminal:
+
+bc. bash <(curl http://tinyurl.com/dist-guess)
+
+h2. Contribution
+
+Feel free to send any pull requests should you find this useful but incomplete in any way.
+
+h2. Attribution
+
+The basis for this was stolen from a forum somewhere in the internet which location has been lost in the bottomless pit of time. A reference to the original author will be appended to this file as soon as I, or anyone knowlegeable, find the guy.
+
